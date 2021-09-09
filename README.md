@@ -6,7 +6,7 @@
 * I love reading books and playing chess.
 * I live in Turkey.
 
-<h4>💻 Technologies That I Use</h4>
+<h3>💻 Technologies That I Use</h3>
 
 * /proc/os = Linux
 * /proc/wm = i3
