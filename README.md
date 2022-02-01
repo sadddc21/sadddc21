@@ -3,7 +3,7 @@
 <h3>❓ About Me</h3>
 
 * I am a high school student who deals with Linux.
-* I love reading books and playing chess.
+* I love playing video games.
 * I live in Turkey.
 
 <h3>💻 Technologies That I Use</h3>
