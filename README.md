@@ -8,7 +8,7 @@
 
 <h3>💻 Technologies That I Use</h3>
 
-* /proc/os = Linux
-* /proc/wm = i3
+* /proc/os = pop_OS! & Arch Linux
+* /proc/wm = Gnome & i3
 * /proc/programmingLanguages = Go, Ruby, Python, Java, C#, Javascript
 * /proc/ide = Vim
