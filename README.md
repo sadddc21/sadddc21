@@ -10,4 +10,4 @@ I'm a Open Source and Free Software fan(Also tech paranoid). I love ricing *NIX 
 * /proc/wm = BSPWM
 * /proc/programmingLanguages = C, C++, Python, Javascript
 * /proc/ide = GNU Emacs & vim
-* /proc/reddit = [u/Illustrious-Dig194](www.reddit.com/user/Illustrious-Dig194)
+* /proc/reddit = [u/Illustrious-Dig194](https://www.reddit.com/user/Illustrious-Dig194)
