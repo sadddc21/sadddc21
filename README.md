@@ -1,14 +1,13 @@
-<h2>Hey stranger! 👋</h2>
+<h2>Hi</h2>
 
-<h3>❓ About Me</h3>
+<h3>About me</h3>
 
-* I am a high school student who deals with Linux.
-* I love playing video games.
-* I live in Turkey.
+I'm a Open Source and Free Software fan(Also tech paranoid). I love ricing *NIX systems(such as GNU/Linux, *BSD). I hate proprietary software makers like Microsoft, Google, Apple, Adobe etc. 
 
-<h3>💻 Technologies That I Use</h3>
+<h3>Some stuff that I use</h3>
 
-* /proc/os = pop_OS! & Arch Linux
-* /proc/wm = Gnome & i3
-* /proc/programmingLanguages = Go, Ruby, Python, Java, C#, Javascript
-* /proc/ide = Vim
+* /proc/os = Artix GNU/Linux & Gentoo GNU/Linux-libre
+* /proc/wm = BSPWM
+* /proc/programmingLanguages = C, C++, Python, Javascript
+* /proc/ide = GNU Emacs & vim
+* /proc/reddit = [u/Illustrious-Dig194](www.reddit.com/user/Illustrious-Dig194)
