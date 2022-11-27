@@ -6,8 +6,8 @@ I'm a Open Source and Free Software fan(Also tech paranoid). I love ricing *NIX 
 
 <h3>Some stuff that I use</h3>
 
-* /proc/os = Artix GNU/Linux & Gentoo GNU/Linux-libre
-* /proc/wm = BSPWM
-* /proc/programmingLanguages = C, C++, Python, Javascript
-* /proc/ide = GNU Emacs & vim
+* /proc/os = Gentoo GNU/Linux-zen
+* /proc/wm = DWM
+* /proc/programmingLanguages = RUST, C, C++, Python, Javascript
+* /proc/ide = Neovim
 * /proc/reddit = [u/Illustrious-Dig194](https://www.reddit.com/user/Illustrious-Dig194)
